@@ -3,4 +3,4 @@
 ---
 
 
-- [[07 Famlie/Oppbevaring|Oppbevaring]]
+- [[07 Famlie/Bod/Oppbevaring 0001|Oppbevaring 0001]]
