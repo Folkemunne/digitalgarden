@@ -3,4 +3,5 @@
 ---
 
 
-- [[07 Famlie/Bod/0001|0001]]
+## Oppbevaring i boden
+- [[07 Famlie/storage/0001|0001]]
